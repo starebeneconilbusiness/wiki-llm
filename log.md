@@ -19,3 +19,14 @@
 - Created entities: n8n-instance, odoo-19-docker, server-infrastructure, cloudflare-tunnel, hashicorp-vault
 - Created concepts: hermes-config, paperclip-ai
 - Total pages: 8
+
+## [2026-06-08] create | Wiki-LLM entity page
+- Created: entities/wiki-llm.md
+- Reason: referenced by paperclip-ai.md but page did not exist
+
+## [2026-06-08] update | hermes-config wikilinks
+- Added [[paperclip-ai]] and [[wiki-llm]] links (was only 1 outbound, needs ≥2)
+
+## [2026-06-08] update | Index and navigation
+- Added wiki-llm to Entities section (alphabetical)
+- Updated total pages: 8 → 9

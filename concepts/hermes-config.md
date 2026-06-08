@@ -20,3 +20,5 @@ Key configuration details and gotchas for Hermes Agent.
 
 ## Relationships
 - [[server-infrastructure]] — Hermes runs on this server
+- [[paperclip-ai]] — Hermes is one of the agents Paperclip orchestrates
+- [[wiki-llm]] — Hermes curates this wiki via cron
