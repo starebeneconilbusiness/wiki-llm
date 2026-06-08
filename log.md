@@ -1,0 +1,21 @@
+# Wiki Log
+
+> Chronological record of all wiki actions. Append-only.
+> Format: `## [YYYY-MM-DD] action | subject`
+> Actions: ingest, update, query, lint, create, archive, delete
+> When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
+
+## [2026-06-08] create | Wiki initialized
+- Domain: Personal project memory (infra, tools, projects, decisions)
+- Structure created with SCHEMA.md, index.md, log.md
+- Repo: https://github.com/starebeneconilbusiness/wiki-llm
+
+## [2026-06-08] ingest | Paperclip.ai overview
+- Source: https://paperclip.ing/#orgchart-section
+- Created: raw/articles/paperclip-ai-overview.md
+- Created: concepts/paperclip-ai.md
+
+## [2026-06-08] create | Migrated memory entries to wiki
+- Created entities: n8n-instance, odoo-19-docker, server-infrastructure, cloudflare-tunnel, hashicorp-vault
+- Created concepts: hermes-config, paperclip-ai
+- Total pages: 8
