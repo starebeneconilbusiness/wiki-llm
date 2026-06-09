@@ -34,3 +34,9 @@
 ## [2026-06-09] update | Auto-sync to GitHub
 - No changes to sync (local wiki matches remote)
 - Note: wiki directory was not a git clone; initialized git repo and connected to remote
+
+## [2026-06-09] lint | Hourly curator check
+- Reviewed all 9 wiki pages — all present and consistent
+- No memory entries available to migrate (cron context, no persistent memory injected)
+- Git repo clean, no changes to push
+- Wiki is current
