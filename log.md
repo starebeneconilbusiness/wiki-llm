@@ -129,6 +129,5 @@
 ## [2026-06-09] lint | Hourly curator check (15)
 - Reviewed all 8 wiki pages — all present and consistent
 - No memory entries available to migrate (cron context, no persistent memory injected)
-- Committed pending change: entities/odoo-19-docker.md (DB created, admin login, postgres user, login URL)
-- Pushed to GitHub
+- Committed and pushed: entities/odoo-19-docker.md (DB created, admin login, postgres user, login URL)
 - Wiki is current — no new entries to migrate
