@@ -52,3 +52,9 @@
 - Memory tool not available in cron context — no entries to migrate
 - Git repo clean (commit 91d569d), no changes to push
 - Wiki is current — no new entries to migrate
+
+## [2026-06-09] lint | Hourly curator check (4)
+- Reviewed all 9 wiki pages — all present and consistent
+- No memory entries available to migrate (cron context, no persistent memory injected)
+- Committed residual working-tree changes (index date fix + prior log entries)
+- Wiki is current — no new entries to migrate
