@@ -30,3 +30,7 @@
 ## [2026-06-08] update | Index and navigation
 - Added wiki-llm to Entities section (alphabetical)
 - Updated total pages: 8 → 9
+
+## [2026-06-09] update | Auto-sync to GitHub
+- No changes to sync (local wiki matches remote)
+- Note: wiki directory was not a git clone; initialized git repo and connected to remote
