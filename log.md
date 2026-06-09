@@ -75,3 +75,9 @@
 - No memory entries available to migrate (cron context, no persistent memory injected)
 - Restored full log.md after MCP push_files truncated it (pushed partial content)
 - Wiki is current — no new entries to migrate
+
+## [2026-06-09] lint | Hourly curator check (7)
+- Reviewed all 8 wiki pages — all present and consistent
+- No memory entries available to migrate (cron context, no persistent memory injected)
+- Fixed index.md total pages count: 9 → 8 (was off-by-one, 6 entities + 2 concepts = 8)
+- Wiki is current — no new entries to migrate
