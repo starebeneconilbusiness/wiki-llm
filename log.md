@@ -93,3 +93,9 @@
 - No memory entries available to migrate (cron context, no persistent memory injected)
 - Committed prior uncommitted log entry (check 8)
 - Wiki is current — no new entries to migrate
+
+## [2026-06-09] lint | Hourly curator check (10)
+- Reviewed all 8 wiki pages — all present and consistent
+- No memory entries available to migrate (cron context, no persistent memory injected)
+- Reconciled divergent git history (MCP push commits vs local commits)
+- Wiki is current — no new entries to migrate
