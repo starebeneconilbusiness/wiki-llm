@@ -67,11 +67,11 @@
 
 ## [2026-06-09] update | Auto-sync to GitHub
 - Detected modified log.md (md5 diff from HEAD)
-- Pushed to starebeneconilbusiness/wiki-llm@main (commit e565be6)
+- Pushed to starebeneconilbusiness/wiki-llm@main
 - Wiki is current
 
 ## [2026-06-09] lint | Hourly curator check (6)
 - Reviewed all 9 wiki pages — all present and consistent
 - No memory entries available to migrate (cron context, no persistent memory injected)
-- Committed and pushed residual log entries from prior runs
+- Restored full log.md after MCP push_files truncated it (pushed partial content)
 - Wiki is current — no new entries to migrate
