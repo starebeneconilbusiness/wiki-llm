@@ -39,3 +39,8 @@
 - 37 consecutive hourly checks from 2026-06-10 07:29 to 2026-06-10 23:00
 - All checks: 8 wiki pages present and consistent, no memory entries to migrate
 - Wiki remained current throughout — no new entries, no changes
+
+## [2026-06-11] lint | Hourly curator check (38)
+- Memory tool disabled in cron env — no memory entries available to migrate
+- All 8 wiki pages present and consistent
+- Wiki is current — no new entries to migrate
