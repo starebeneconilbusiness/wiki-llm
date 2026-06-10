@@ -8,6 +8,8 @@
 ## [2026-06-08] create | Wiki initialized
 - Domain: Personal project memory (infra, tools, projects, decisions)
 - Structure created with SCHEMA.md, index.md, log.md
+
+## [2026-06-10] update | Auto-sync to GitHub
 - Repo: https://github.com/starebeneconilbusiness/wiki-llm
 
 ## [2026-06-08] ingest | Paperclip.ai overview
@@ -156,4 +158,10 @@
 - Reviewed all 8 wiki pages — all present and consistent
 - No memory entries available to migrate (cron context, no persistent memory injected)
 - Git repo clean, no changes to push
+- Wiki is current — no new entries to migrate
+
+## [2026-06-10] lint | Hourly curator check (20)
+- Reviewed all 8 wiki pages — all present and consistent
+- No memory entries available to migrate (cron context, no persistent memory injected)
+- Updated index.md last-updated date to 2026-06-10
 - Wiki is current — no new entries to migrate

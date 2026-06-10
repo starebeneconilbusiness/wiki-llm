@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-|> Last updated: 2026-06-09 | Total pages: 8
+|> Last updated: 2026-06-10 | Total pages: 8
 
 ## Entities
 - [[cloudflare-tunnel]] — HTTPS reverse proxy for custom domains
