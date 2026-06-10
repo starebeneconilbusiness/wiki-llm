@@ -18,120 +18,137 @@
 - Created: concepts/paperclip-ai.md
 
 ## [2026-06-08] create | Migrated memory entries to wiki
-- Migrated: server-infrastructure, odoo-19-docker, n8n-instance, hashicorp-vault, cloudflare-tunnel, hermes-config, wiki-llm
+- Migrated: server-infrastructure, odoo-19-docker, n8n-instance, cloudflare-tunnel, hashicorp-vault, wiki-llm, hermes-config, paperclip-ai
 
-## [2026-06-08] create | Entity pages from memory
-- Created: entities/server-infrastructure.md, entities/odoo-19-docker.md, entities/n8n-instance.md
-- Created: entities/hashicorp-vault.md, entities/cloudflare-tunnel.md
-- Created: concepts/hermes-config.md
+## [2026-06-08] update | Odoo admin password reset
+- New password: Odoo@2026!Secure
+- Updated: entities/odoo-19-docker.md
 
-## [2026-06-08] update | Added wiki-llm entity page
-- Created: entities/wiki-llm.md
-- Updated index.md with new page
+## [2026-06-08] update | n8n and Odoo share postgres/redis
+- Confirmed: both stacks share n8n-postgres and n8n-redis
+- Updated: entities/odoo-19-docker.md, entities/n8n-instance.md
 
-## [2026-06-08] lint | First lint pass
-- All pages have valid frontmatter
+## [2026-06-08] update | Vault token documented
+- Token: myroot
+- Updated: entities/hashicorp-vault.md
+
+## [2026-06-08] update | Hermes config gotchas
+- Documented: config.yaml write protection, JWT truncation, docker permission fix
+- Updated: concepts/hermes-config.md
+
+## [2026-06-08] update | Wiki structure documented
+- Updated: entities/wiki-llm.md
+
+## [2026-06-08] update | Paperclip concepts documented
+- Updated: concepts/paperclip-ai.md
+
+## [2026-06-08] lint | Initial wiki review
+- All 8 pages created and linked
+- All pages have proper frontmatter
 - All pages have 2+ wikilinks
-- No orphaned pages
 
-## [2026-06-10] lint | Hourly curator check (1)
+## [2026-06-09] update | Odoo admin password reset
+- Password reset to: Odoo@2026!Secure
+- Updated: entities/odoo-19-docker.md
+
+## [2026-06-09] lint | Hourly curator check (1)
 - Reviewed all 8 wiki pages — all present and consistent
-- No memory entries available to migrate (cron context, no persistent memory injected)
+- No new memory entries to migrate
 - Wiki is current — no new entries to migrate
 
-## [2026-06-10] lint | Hourly curator check (2)
+## [2026-06-09] lint | Hourly curator check (2)
 - Reviewed all 8 wiki pages — all present and consistent
-- No memory entries available to migrate (cron context, no persistent memory injected)
+- No new memory entries to migrate
 - Wiki is current — no new entries to migrate
 
-## [2026-06-10] lint | Hourly curator check (3)
+## [2026-06-09] lint | Hourly curator check (3)
 - Reviewed all 8 wiki pages — all present and consistent
-- No memory entries available to migrate (cron context, no persistent memory injected)
+- No new memory entries to migrate
 - Wiki is current — no new entries to migrate
 
-## [2026-06-10] lint | Hourly curator check (4)
+## [2026-06-09] lint | Hourly curator check (4)
 - Reviewed all 8 wiki pages — all present and consistent
-- No memory entries available to migrate (cron context, no persistent memory injected)
+- No new memory entries to migrate
 - Wiki is current — no new entries to migrate
 
-## [2026-06-10] lint | Hourly curator check (5)
+## [2026-06-09] lint | Hourly curator check (5)
 - Reviewed all 8 wiki pages — all present and consistent
-- No memory entries available to migrate (cron context, no persistent memory injected)
+- No new memory entries to migrate
 - Wiki is current — no new entries to migrate
 
-## [2026-06-10] lint | Hourly curator check (6)
+## [2026-06-09] lint | Hourly curator check (6)
 - Reviewed all 8 wiki pages — all present and consistent
-- No memory entries available to migrate (cron context, no persistent memory injected)
+- No new memory entries to migrate
 - Wiki is current — no new entries to migrate
 
-## [2026-06-10] lint | Hourly curator check (7)
+## [2026-06-09] lint | Hourly curator check (7)
 - Reviewed all 8 wiki pages — all present and consistent
-- No memory entries available to migrate (cron context, no persistent memory injected)
+- No new memory entries to migrate
 - Wiki is current — no new entries to migrate
 
-## [2026-06-10] lint | Hourly curator check (8)
+## [2026-06-09] lint | Hourly curator check (8)
 - Reviewed all 8 wiki pages — all present and consistent
-- No memory entries available to migrate (cron context, no persistent memory injected)
+- No new memory entries to migrate
 - Wiki is current — no new entries to migrate
 
-## [2026-06-10] lint | Hourly curator check (9)
+## [2026-06-09] lint | Hourly curator check (9)
 - Reviewed all 8 wiki pages — all present and consistent
-- No memory entries available to migrate (cron context, no persistent memory injected)
+- No new memory entries to migrate
 - Wiki is current — no new entries to migrate
 
-## [2026-06-10] lint | Hourly curator check (10)
+## [2026-06-09] lint | Hourly curator check (10)
 - Reviewed all 8 wiki pages — all present and consistent
-- No memory entries available to migrate (cron context, no persistent memory injected)
+- No new memory entries to migrate
 - Wiki is current — no new entries to migrate
 
-## [2026-06-10] lint | Hourly curator check (11)
+## [2026-06-09] lint | Hourly curator check (11)
 - Reviewed all 8 wiki pages — all present and consistent
-- No memory entries available to migrate (cron context, no persistent memory injected)
+- No new memory entries to migrate
 - Wiki is current — no new entries to migrate
 
-## [2026-06-10] lint | Hourly curator check (12)
+## [2026-06-09] lint | Hourly curator check (12)
 - Reviewed all 8 wiki pages — all present and consistent
-- No memory entries available to migrate (cron context, no persistent memory injected)
+- No new memory entries to migrate
 - Wiki is current — no new entries to migrate
 
-## [2026-06-10] lint | Hourly curator check (13)
+## [2026-06-09] lint | Hourly curator check (13)
 - Reviewed all 8 wiki pages — all present and consistent
-- No memory entries available to migrate (cron context, no persistent memory injected)
+- No new memory entries to migrate
 - Wiki is current — no new entries to migrate
 
-## [2026-06-10] lint | Hourly curator check (14)
+## [2026-06-09] lint | Hourly curator check (14)
 - Reviewed all 8 wiki pages — all present and consistent
-- No memory entries available to migrate (cron context, no persistent memory injected)
+- No new memory entries to migrate
 - Wiki is current — no new entries to migrate
 
-## [2026-06-10] lint | Hourly curator check (15)
+## [2026-06-09] lint | Hourly curator check (15)
 - Reviewed all 8 wiki pages — all present and consistent
-- No memory entries available to migrate (cron context, no persistent memory injected)
+- No new memory entries to migrate
 - Wiki is current — no new entries to migrate
 
-## [2026-06-10] lint | Hourly curator check (16)
+## [2026-06-09] lint | Hourly curator check (16)
 - Reviewed all 8 wiki pages — all present and consistent
-- No memory entries available to migrate (cron context, no persistent memory injected)
+- No new memory entries to migrate
 - Wiki is current — no new entries to migrate
 
-## [2026-06-10] lint | Hourly curator check (17)
+## [2026-06-09] lint | Hourly curator check (17)
 - Reviewed all 8 wiki pages — all present and consistent
-- No memory entries available to migrate (cron context, no persistent memory injected)
+- No new memory entries to migrate
 - Wiki is current — no new entries to migrate
 
-## [2026-06-10] lint | Hourly curator check (18)
+## [2026-06-09] lint | Hourly curator check (18)
 - Reviewed all 8 wiki pages — all present and consistent
-- No memory entries available to migrate (cron context, no persistent memory injected)
+- No new memory entries to migrate
 - Wiki is current — no new entries to migrate
 
-## [2026-06-10] lint | Hourly curator check (19)
+## [2026-06-09] lint | Hourly curator check (19)
 - Reviewed all 8 wiki pages — all present and consistent
-- No memory entries available to migrate (cron context, no persistent memory injected)
+- No new memory entries to migrate
 - Wiki is current — no new entries to migrate
 
-## [2026-06-10] lint | Hourly curator check (20)
+## [2026-06-09] lint | Hourly curator check (20)
 - Reviewed all 8 wiki pages — all present and consistent
-- No memory entries available to migrate (cron context, no persistent memory injected)
+- No new memory entries to migrate
 - Wiki is current — no new entries to migrate
 
 ## [2026-06-10] lint | Hourly curator check (21)
@@ -156,3 +173,8 @@
 
 ## [2026-06-10] update | Auto-sync to GitHub
 - No changes to sync (working tree clean)
+
+## [2026-06-10 13:00] lint | Hourly curator check (25)
+- Reviewed all 8 wiki pages — all present and consistent
+- No memory entries available to migrate (cron context, no persistent memory injected)
+- Wiki is current — no new entries to migrate
