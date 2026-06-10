@@ -171,3 +171,8 @@
 |- Reviewed all 8 wiki pages — all present and consistent
 |- No memory entries available to migrate (cron context, no persistent memory injected)
 |- Wiki is current — no new entries to migrate
+
+## [2026-06-10 16:00] lint | Hourly curator check (28)
+|- Reviewed all 8 wiki pages — all present and consistent
+|- No memory entries available to migrate (cron context, no persistent memory injected)
+|- Wiki is current — no new entries to migrate
