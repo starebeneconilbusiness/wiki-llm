@@ -44,3 +44,8 @@
 - Memory tool disabled in cron env — no memory entries available to migrate
 - All 8 wiki pages present and consistent
 - Wiki is current — no new entries to migrate
+
+## [2026-06-11] lint | Hourly curator check (39)
+- Memory tool disabled in cron env — no memory entries available to migrate
+- All 8 wiki pages present and consistent
+- Wiki is current — no new entries to migrate
