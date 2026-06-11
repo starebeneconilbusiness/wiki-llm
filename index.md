@@ -1,8 +1,18 @@
+---
+title: Wiki Index
+created: 2026-06-08
+updated: 2026-06-11
+type: meta
+tags: [wiki-llm, meta]
+sources: []
+confidence: high
+---
+
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-|> Last updated: 2026-06-10 21:00 | Total pages: 8
+|> Last updated: 2026-06-11 12:00 | Total pages: 8
 
 ## Entities
 - [[cloudflare-tunnel]] — HTTPS reverse proxy for custom domains
